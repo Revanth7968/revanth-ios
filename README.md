@@ -1,0 +1,2 @@
+# revanth-ios
+allow all
